@@ -1,0 +1,10 @@
+numpy
+scipy
+pyyaml
+pillow
+torch
+torchvision
+opencv-python
+
+# UI runtime: rclpy and rcl_interfaces are provided by ROS2 Humble
+# and must not be installed with pip.
